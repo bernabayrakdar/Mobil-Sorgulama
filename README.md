@@ -2,7 +2,7 @@
 
 TİP-1
 
-Kullanılan yellow_tripdata-2020-12.json dosyasındaki en fazla yolcu taşınan 5 gün ve yolcu sayıları bulunmuştur.
+Kullanılan yellow.json dosyasındaki en fazla yolcu taşınan 5 gün ve yolcu sayıları bulunmuştur.
 
 <img src= "https://user-images.githubusercontent.com/50086295/116884564-89c8a300-ac2f-11eb-8fe4-6fb19a71f339.jpeg" width=100>
 
